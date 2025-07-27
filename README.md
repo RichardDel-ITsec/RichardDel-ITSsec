@@ -5,10 +5,10 @@ About me!
 I'm passionate about Information Security and love tackling complex challenges through hands-on projects. From Identity and Access Management to threat detection, these projects allow me to dive deep into the ever-evolving landscape of cybersecurity. Please feel free to check them out and see the work I’ve put into enhancing security operations and processes!
 
 
-## ⚠️ Vulnerability Management Projects
+## ⚠️ Identity and Access Management Projects
 
 - **[Vulnerability Management Program Implementation]()**
-- **[Programmatic Vulnerability Remediations (PowerShell and BASH)](https://github.com/joshcybertest/programmatic-vulnerability-remediations)**
+- **[Programmatic Vulnerability Remediations (PowerShell and BASH)](https://github.com/RichardDel-ITsec/IAM-Analyst-Projects)**
 
 ## 🚨 Threat Hunting and Security Operations
 
