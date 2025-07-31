@@ -8,7 +8,7 @@ I'm passionate about Information Security and love tackling complex challenges t
 ## ⚠️ Identity and Access Management Projects
 
 - **[Vulnerability Management Program Implementation]()**
-- **[Programmatic Vulnerability Remediations (PowerShell and BASH)](https://github.com/RichardDel-ITsec/IAM-Analyst-Projects)**
+- **[Identity and Access Management Workflows (Policies, templates and scripts )](https://github.com/RichardDel-ITsec/IAM-Analyst-Projects)**
 
 ## 🚨 Threat Hunting and Security Operations
 
