@@ -7,12 +7,9 @@ I'm passionate about Information Security and love tackling complex challenges t
 
 ## ⚠️ Identity and Access Management Projects
 
-- **[Vulnerability Management Program Implementation]()**
+
 - **[Identity and Access Management Workflows (Policies, templates and scripts )](https://github.com/RichardDel-ITsec/IAM-Analyst-Projects)**
 
-## 🚨 Threat Hunting and Security Operations
-
-- **[Threat Hunting Scenario (Tor Browser Usage)](https://github.com/joshmadakor0/threat-hunting-scenario-tor)**
 
 <hr/>
 
